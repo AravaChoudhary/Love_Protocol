@@ -1,7 +1,7 @@
 # AI-Powered Dating Web App: Revolutionizing Online Matchmaking
 
 ## Table of Contents  
-1. [Overview](#overview) 
+1. [Overview](#-overview) 
 2. [Folder Structure](#-folder-stucture)
 3. [Features](#-key-features--unique-selling-points)    
 4. [Uniqueness](#-why-this-app-is-unique)
