@@ -8,8 +8,9 @@ This AI-powered dating web app is designed to go beyond traditional swiping by i
 ## 🚀 Key Features & Unique Selling Points
 
 ### 1️⃣ AI-Powered Love Compatibility Analyzer
-    💡 **What It Does**: Users upload pictures of themselves and their potential partner, and the AI analyzes **facial expressions, emotions, and micro-expressions** to predict compatibility.
-    🔹 **How It Helps:** Provides a **compatibility score** and relationship insights based on scientific facial emotion analysis.
+💡 **What It Does**: Users upload pictures of themselves and their potential partner, and the AI analyzes **facial expressions, emotions, and micro-expressions** to predict compatibility.
+
+🔹 **How It Helps:** Provides a **compatibility score** and relationship insights based on scientific facial emotion analysis.
 
 ---
 
