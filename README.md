@@ -6,46 +6,46 @@ This AI-powered dating web app is designed to go beyond traditional swiping by i
 ---
 
 ## 📌 Folder Stucture 
-   geeky-nerdy-pyaar/            # Root directory of the project
-   ├── backend/                  # Backend (Django) project
-   │   ├── geeky_nerdy_pyaar/    # Django project folder
-   │   │   ├── __init__.py
-   │   │   ├── settings.py       # Django settings for the backend
-   │   │   ├── urls.py           # Django URLs routing
-   │   │   ├── wsgi.py           # WSGI configuration for deployment
-   │   │   └── asgi.py           # ASGI for real-time connections (e.g., WebSockets)
-   │   ├── api/                  # API-related files (Django Rest Framework)
-   │   │   ├── __init__.py
-   │   │   ├── serializers.py    # Serializers for API responses
-   │   │   ├── views.py          # Views for API endpoints
-   │   │   ├── urls.py           # API URLs
-   │   │   └── models.py         # Database models (User, Profile, Match, etc.)
-   │   ├── chat/                 # Real-time messaging system (Django Channels)
-   │   │   ├── __init__.py
-   │   │   ├── consumers.py      # WebSocket consumers (for real-time chat)
-   │   │   ├── models.py         # Models for chat messages, chatrooms, etc.
-   │   │   └── views.py          # Chat views if needed
-   │   ├── media/                # Media files (profile pictures, uploads)
-   │   ├── migrations/           # Django migration files
-   │   ├── manage.py             # Manage Django app (run server, migrate, etc.)
-   │   └── requirements.txt      # Python dependencies (Django, DRF, Channels, etc.)
-   │
-   ├── frontend/                 # Frontend (React) project
-   │   ├── public/               # Public files (index.html, favicon, etc.)
-   │   ├── src/                  # React source code
-   │   │   ├── assets/           # Static files (images, CSS, fonts)
-   │   │   ├── components/       # Reusable components (Header, Footer, etc.)
-   │   │   ├── pages/            # Different pages (Home, Profile, Matches, etc.)
-   │   │   ├── services/         # API calls to backend (e.g., Axios functions)
-   │   │   ├── App.js            # Main component
-   │   │   ├── App.css           # Global styling for the app
-   │   │   └── index.js          # React entry point
-   │   ├── package.json          # Node.js dependencies (React, Axios, etc.)
-   │   └── .env                  # Environment variables (API URLs, etc.)
-   │
-   ├── .gitignore                # Git ignore file (exclude unnecessary files)
-   ├── README.md                 # Project documentation (overview, setup, etc.)
-   └── docker-compose.yml        # Docker file for containerized development (if needed)
+      geeky-nerdy-pyaar/               # Root directory of the project
+      ├── backend/                     # Backend (Django) project
+      │   ├── geeky_nerdy_pyaar/       # Django project folder
+      │   │   ├── __init__.py
+      │   │   ├── settings.py          # Django settings for the backend
+      │   │   ├── urls.py              # Django URLs routing
+      │   │   ├── wsgi.py              # WSGI configuration for deployment
+      │   │   └── asgi.py              # ASGI for real-time connections (e.g., WebSockets)
+      │   ├── api/                     # API-related files (Django Rest Framework)
+      │   │   ├── __init__.py
+      │   │   ├── serializers.py       # Serializers for API responses
+      │   │   ├── views.py             # Views for API endpoints
+      │   │   ├── urls.py              # API URLs
+      │   │   └── models.py            # Database models (User, Profile, Match, etc.)
+      │   ├── chat/                    # Real-time messaging system (Django Channels)
+      │   │   ├── __init__.py
+      │   │   ├── consumers.py         # WebSocket consumers (for real-time chat)
+      │   │   ├── models.py            # Models for chat messages, chatrooms, etc.
+      │   │   └── views.py             # Chat views if needed
+      │   ├── media/                   # Media files (profile pictures, uploads)
+      │   ├── migrations/              # Django migration files
+      │   ├── manage.py                # Manage Django app (run server, migrate, etc.)
+      │   └── requirements.txt         # Python dependencies (Django, DRF, Channels, etc.)
+      │
+      ├── frontend/                    # Frontend (React) project
+      │   ├── public/                  # Public files (index.html, favicon, etc.)
+      │   ├── src/                     # React source code
+      │   │   ├── assets/              # Static files (images, CSS, fonts)
+      │   │   ├── components/          # Reusable components (Header, Footer, etc.)
+      │   │   ├── pages/               # Different pages (Home, Profile, Matches, etc.)
+      │   │   ├── services/            # API calls to backend (e.g., Axios functions)
+      │   │   ├── App.js               # Main component
+      │   │   ├── App.css              # Global styling for the app
+      │   │   └── index.js             # React entry point
+      │   ├── package.json             # Node.js dependencies (React, Axios, etc.)
+      │   └── .env                     # Environment variables (API URLs, etc.)
+      │
+      ├── .gitignore                   # Git ignore file (exclude unnecessary files)
+      ├── README.md                    # Project documentation (overview, setup, etc.)
+      └── docker-compose.yml           # Docker file for containerized development (if needed)
 
 ---
 
