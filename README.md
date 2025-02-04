@@ -1,5 +1,12 @@
 # AI-Powered Dating Web App: Revolutionizing Online Matchmaking
 
+## Table of Contents  
+1. [Overview](#overview) 
+2. [Folder Structure](#-folder-stucture)
+3. [Features](#-key-features--unique-selling-points)    
+4. [Uniqueness](#-why-this-app-is-unique)
+5. [Next Steps](#-next-steps-how-to-proceed)  
+
 ## 📌 Overview
 This AI-powered dating web app is designed to go beyond traditional swiping by integrating **emotion analysis, facial recognition, and AI-driven compatibility predictions**. By leveraging **Convolutional Neural Networks (CNNs) and Natural Language Processing (NLP)**, the app provides users with **meaningful connections, personalized dating insights, and AI-assisted matchmaking** for a unique and engaging dating experience.
 
@@ -127,7 +134,7 @@ and interests first.
 
 ---
 
-### **💡 Why This App is Unique?**
+## **💡 Why This App is Unique?**
 ✔️ **AI-powered dating with deep emotional insights** (not just swiping!).
 
 ✔️ **Privacy-conscious features** (Crush Scanner only accesses public data, users can opt-out).
@@ -140,7 +147,7 @@ and interests first.
 
 ---
 
-### **📌 Next Steps: How to Proceed?**
+## **📌 Next Steps: How to Proceed?**
 If you’re ready to develop this app, you’ll need:
 🔹 **Tech Stack Selection** (Frontend, Backend, AI Models)
 
