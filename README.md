@@ -15,7 +15,7 @@ This AI-powered dating web app is designed to go beyond traditional swiping by i
 ---
 
 ### **2️⃣ Emotion-Based Date Suggestions**
-💡 What It Does:** The app analyzes **a selfie before a date** to detect the user’s **mood (nervous, excited, stressed, happy, etc.)**.
+💡 **What It Does:** The app analyzes **a selfie before a date** to detect the user’s **mood (nervous, excited, stressed, happy, etc.)**.
 
 🔹 **How It Helps:** AI suggests **customized date ideas** based on the detected mood (e.g., a coffee date for relaxation, an adventure date for excitement).
 
