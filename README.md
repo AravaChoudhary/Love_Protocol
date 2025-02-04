@@ -5,7 +5,7 @@ This AI-powered dating web app is designed to go beyond traditional swiping by i
 
 ---
 
-## Folder Stucture 
+## 📌 Folder Stucture 
    geeky-nerdy-pyaar/            # Root directory of the project
    ├── backend/                  # Backend (Django) project
    │   ├── geeky_nerdy_pyaar/    # Django project folder
