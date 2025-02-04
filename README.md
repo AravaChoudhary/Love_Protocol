@@ -1,14 +1,14 @@
-**### AI-Powered Dating Web App: Revolutionizing Online Matchmaking**
+# AI-Powered Dating Web App: Revolutionizing Online Matchmaking
 
-#### **📌 Overview**
+## 📌 Overview
 This AI-powered dating web app is designed to go beyond traditional swiping by integrating **emotion analysis, facial recognition, and AI-driven compatibility predictions**. By leveraging **Convolutional Neural Networks (CNNs) and Natural Language Processing (NLP)**, the app provides users with **meaningful connections, personalized dating insights, and AI-assisted matchmaking** for a unique and engaging dating experience.
 
 ---
 
-#### **🚀 Key Features & Unique Selling Points**
+## 🚀 Key Features & Unique Selling Points
 
-### **1️⃣ AI-Powered Love Compatibility Analyzer**
-💡 **What It Does:** Users upload pictures of themselves and their potential partner, and the AI analyzes **facial expressions, emotions, and micro-expressions** to predict compatibility.
+### 1️⃣ AI-Powered Love Compatibility Analyzer
+💡 What It Does:** Users upload pictures of themselves and their potential partner, and the AI analyzes **facial expressions, emotions, and micro-expressions** to predict compatibility.
 🔹 **How It Helps:** Provides a **compatibility score** and relationship insights based on scientific facial emotion analysis.
 
 ---
